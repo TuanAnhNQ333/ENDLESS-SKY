@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="doc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/vcpkg/buildtrees/libjpeg-turbo/src/3.1.0-61083179ee.clean/java/doc/member-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/vcpkg/buildtrees/libjpeg-turbo/src/3.1.0-61083179ee.clean/java/doc/type-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/vcpkg/buildtrees/libjpeg-turbo/src/3.1.0-61083179ee.clean/java/doc/package-search-index.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
